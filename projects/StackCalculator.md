@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Stack Calculator"
-date: 2015
+date: 2022
 published: true
 labels:
   - Java
