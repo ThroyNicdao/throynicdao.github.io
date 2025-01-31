@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/StackImage.png
 title: "Stack Calculator"
 date: 2022
 published: true
