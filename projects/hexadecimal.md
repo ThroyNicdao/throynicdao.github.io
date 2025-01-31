@@ -5,7 +5,7 @@ image: img/hexadecimal_385.webp
 title: "Hexadecimal"
 date: 2022
 published: true
-labels:
+labels: 
   - Java
   - Hexadecimal
   - Educational Project
