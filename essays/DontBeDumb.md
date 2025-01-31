@@ -9,9 +9,8 @@ labels:
   - Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/picture.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/dumb.png">
 
-*Intrests: Things that intrest me and what I hope to accomplish in this course.*
 
 
 **The Importance of Asking Smart Questions in Software Engineering**  
