@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/OffsetArray.png
-title: "Vacay"
+title: "OffsetArray"
 date: 2022
 published: True
 labels:
