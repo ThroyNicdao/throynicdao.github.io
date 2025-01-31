@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/OffsetArray.png
+image: img/array02b.gif
 title: "OffsetArray"
 date: 2022
 published: True
