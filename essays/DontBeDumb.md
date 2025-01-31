@@ -9,7 +9,7 @@ labels:
   - Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/dumb.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Dumb.png">
 
 
 
