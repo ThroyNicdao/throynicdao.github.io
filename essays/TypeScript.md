@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "TypeScript"
+title: "TypeScript A Hard One"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
@@ -18,3 +18,4 @@ As someone new to TypeScript, I have found it to be quite challenging, especiall
 In terms of its usefulness as a programming language, I am not yet sure if TypeScript is good or bad from a software engineering perspective. Some developers say that it helps catch errors early and improves code maintainability, but since I am still struggling with the basics, I have not yet experienced these benefits firsthand. Right now, it feels more like a barrier to writing code than a helpful tool. Perhaps with more practice and experience, I will be able to appreciate why many engineers prefer TypeScript over plain JavaScript. However, at this point in my learning journey, I find it more confusing than beneficial.
 
 Athletic software engineering, particularly the practice WODs (Workouts of the Day), has been a very stressful experience for me. Since I already find coding difficult, having to complete timed exercises under pressure only adds to my frustration. I struggle to keep up with the pace and often feel discouraged when I cannot finish a task in the given time. While I understand that this method is meant to simulate real-world problem-solving. Instead of feeling motivated, I often feel overwhelmed and defeated. Im sure I will get better as time goes on though.
+
